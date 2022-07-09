@@ -7,19 +7,19 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "url",
-            "proxy": true,
+            "domain": "https://m.faster.buzz/m/login",
+            "proxy": false,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "755598349@qq.com",
+                "passwd": "lc755598349"
             }
         },
         {
-            "domain": "url",
-            "proxy": true,
+            "domain": "https://m.faster.buzz/m/login",
+            "proxy": false,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "755598349@qq.com",
+                "passwd": "lc755598349"
             }
         }
     ]
